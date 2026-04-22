@@ -4,12 +4,12 @@
  */
 
 export interface TreatmentState {
-  medication: string;
-  schedule: number;
-  treatmentDuration: string;
-  dosage: string;
-  administrationRoute: string;
-  attendingPhysician: string;
+  researchSubject: string;
+  clearanceLevel: number;
+  incubationPeriod: string;
+  viralStrain: string;
+  sectorLocation: string;
+  supervisorId: string;
   notes?: string;
 }
 
