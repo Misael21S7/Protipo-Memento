@@ -1,0 +1,6 @@
+{
+  "name": "MediTrack Memento",
+  "description": "A medical treatment tracking system using the Memento pattern to manage clinical history and revert prescription changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
